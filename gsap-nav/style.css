@@ -1,0 +1,23 @@
+*{
+    width: 100%;
+}
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+    background-color: antiquewhite;
+}
+.links{
+  display: flex;
+  list-style-type: none;
+  gap: 5px;
+  padding: 20px;
+  cursor: pointer;
+}
+h1{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 100px;
+}
