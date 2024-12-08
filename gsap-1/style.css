@@ -1,0 +1,18 @@
+*{
+    width:100%;
+    padding: 5px;
+    margin: 5px;
+}
+#box1,#box2,#box3{
+    width: 150px;
+    height: 150px;
+}
+#box1{
+    background-color: cadetblue;
+}
+#box2{
+    background-color: palevioletred;
+}
+#box3{
+    background-color: cornflowerblue;
+}
